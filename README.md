@@ -1,1 +1,10 @@
-# CS-330
+# CS-330-Computational-Graphics-and-Visualization
+
+## How do I approach designing software?
+I approach designing software by first thoroughly understanding the project's requirements and constraints, which helps define the scope and objectives clearly. I then conceptualize the software architecture and design by identifying key components and their interactions. This project has enhanced my skills in 3D modeling, texture mapping, lighting design, and camera navigation. I followed a design process that included requirement analysis, shape identification, modeling, texturing, lighting, placement, and camera control. Tactics from this approach, such as modular design, iterative prototyping, attention to detail, and user-centered design, can be applied to future work to ensure high-quality outcomes.
+
+## How do I approach developing programs?
+My approach to developing programs involves planning the program's structure and functionality before coding, writing clean, modular, and well-documented code, and continuously testing and debugging to ensure functionality and performance. This project introduced me to incremental development, continuous testing, and incorporating user feedback. Iteration played a crucial role, as I created initial prototypes and refined them based on feedback and testing results, gradually enhancing the scene's complexity and realism. Throughout the milestones, my approach evolved to better organize code for readability and maintenance, and refine techniques in texturing, lighting, and camera controls.
+
+## How can computer science help me in reaching my goals?
+Computer science can help me reach my goals by providing technical skills in programming, 3D modeling, and software development, enhancing my analytical and problem-solving abilities, and opening opportunities in various fields such as gaming, healthcare, and business visualization. This project has given me new knowledge and skills in computational graphics and visualizations that can be applied in my future educational pathway, including technical proficiency, interdisciplinary knowledge, and project management experience. Professionally, these skills enhance creativity, improve communication through clear visualizations, and increase employability in fields requiring expertise in computational graphics and visualization.
